@@ -1,2 +1,5 @@
-# nabbeeeeer
-sa as
+# Çalınması Yasaktır
+
+- Çalan Kodır Dil Anlamışşsen?
+
+- tamam
